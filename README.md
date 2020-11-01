@@ -1,5 +1,6 @@
 # soap_production_ready_start_template
 
-1. use eclipse IDE for easy RUN
+To run application in local. Use command : `mvn jetty:run`
 
-2. use server apache tomcat 9 or any App/web server 
+
+The wsdl can be seen @ http://localhost:8888/jetty/hello?wsdl

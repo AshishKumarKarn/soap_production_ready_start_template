@@ -2,18 +2,18 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
-      <profile name="Annotation profile for SOAP_eclipse_deployable" enabled="true">
+      <profile name="Annotation profile for soap_production_ready_start_template" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="false">
           <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.16.12/lombok-1.16.12.jar" />
         </processorPath>
-        <module name="SOAP_eclipse_deployable" />
+        <module name="soap_production_ready_start_template" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="SOAP_eclipse_deployable" target="1.8" />
+      <module name="soap_production_ready_start_template" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

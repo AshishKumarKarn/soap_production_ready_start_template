@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SOAP_eclipse_deployable.iml" filepath="$PROJECT_DIR$/SOAP_eclipse_deployable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soap_production_ready_start_template.iml" filepath="$PROJECT_DIR$/soap_production_ready_start_template.iml" />
     </modules>
   </component>
 </project>
