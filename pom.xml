@@ -39,7 +39,7 @@
 					<war>${project.build.directory}\${project.build.finalName}.war</war>
 					<webAppSourceDirectory>${project.build.directory}\${project.build.finalName}</webAppSourceDirectory>
 					<webAppConfig>
-						<contextPath>/jetty</contextPath>
+						<contextPath>/soap</contextPath>
 						<descriptor>${project.basedir}\WebContent\WEB-INF\web.xml</descriptor>
 					</webAppConfig>
 					<httpConnector>
